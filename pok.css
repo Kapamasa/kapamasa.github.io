@@ -1,0 +1,14 @@
+
+#p{
+	position: relative;
+  text-align: center;
+}
+
+.ball {
+ position:absolute;
+ text-align: center;
+ } 
+ .squ {
+  position:absolute; 
+  text-align: center;
+ } 
